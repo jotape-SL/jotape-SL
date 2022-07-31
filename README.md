@@ -2,7 +2,8 @@
 
 <p>Welcome to my page! </br> I'm João Pedro, Front-end developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b>. </p>
 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotape-SL&show_icon=true)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotape-SL&show_icon=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotape-SL&show_icon=true&theme=radical)
 
 
 <h3>Where to find me</h3>
