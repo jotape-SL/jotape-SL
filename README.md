@@ -2,6 +2,8 @@
 
 <p>Welcome to my page! </br> I'm João Pedro, Front-end developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b>. </p>
 
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotape-SL&show_icon=true)
+
 
 <h3>Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-de-sousa-cruz-997377235/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
